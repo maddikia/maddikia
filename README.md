@@ -1,4 +1,3 @@
 ### Hi there 👋
 
-I'm **Maddie** (she/her), a Computer Science student at **[Caltech](https://www.caltech.edu/)** and 3x Microsoft intern.
-Feel free to check out my **[Devpost](https://devpost.com/maddikia)** or my **[LinkedIn](https://www.linkedin.com/in/ramosmadison/)**.
+I'm **Maddie** (she/her), a Computer Science senior at **[Caltech](https://www.caltech.edu/)** and incoming Software Engineer at **[Microsoft](https://www.microsoft.com/en-us/)**.
